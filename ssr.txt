@@ -1,3 +1,4 @@
 https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
 https://github.com/shadowsocks/shadowsocks-windows/releases
 https://my.vultr.com/456
+9894
